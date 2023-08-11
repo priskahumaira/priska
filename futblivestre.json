@@ -626,70 +626,69 @@
       "category": "World League",
       "user_agent": "",
       "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-vjxm8gh519pvr6o/chunklist_w1683982476.m3u8"
-    },
-    
+    },    
     {
       "id": 12,
-      "title": "LIVE LEAGUE 12 HD",
+      "title": "LIVE LEAGUE 12 HD F",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx2470ryk/chunklist_w1743138581.m3u8"
+      "streaming_url": "https://live.hjkai791a.site/live/_definst_/stream_1_f1484@ednm9wh2nl0vryo/index.m3u8"
     },
     {
       "id": 11,
-      "title": "LIVE LEAGUE 11 HD",
+      "title": "LIVE LEAGUE 11 HD F",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx42o2ryk/chunklist_w694553446.m3u8"
+      "streaming_url": "https://live.hjkai791a.site/live/_definst_/stream_1_f1484@y39mp1h0looymoj/chunklist.m3u8"
     },
     {
       "id": 10,
-      "title": "LIVE LEAGUE 10 HD",
+      "title": "LIVE LEAGUE 10 HD F",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-8yomo4hgjy05q0j/chunklist_w821764418.m3u8"
+      "streaming_url": "https://live.hjkai791a.site/live/_definst_/stream_1_f1484@ednm9wh2n78jryo/chunklist.m3u8"
     },
     {
       "id": 9,
-      "title": "LIVE LEAGUE 9 HD",
+      "title": "LIVE LEAGUE 9 HD F",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-3glrw7h38pv1qdy/chunklist_w598791085.m3u8"
+      "streaming_url": "https://live.hjkai791a.site/live/_definst_/stream_1_f1484@ednm9wh2noo9ryo/chunklist.m3u8"
     },
     {
       "id": 8,
-      "title": "LIVE LEAGUE 8 HD",
+      "title": "LIVE LEAGUE 8 HD F",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho3l0eq86/chunklist_w293494208.m3u8"
+      "streaming_url": "https://live.hjkai791a.site/live/_definst_/stream_1_f1484@y0or5jhzkxzpqwz/index.m3u8"
     },
     {
       "id": 7,
-      "title": "LIVE LEAGUE 7 HD",
+      "title": "LIVE LEAGUE 7 HD F",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-jw2r09h6z07jrz8/chunklist_w1378690844.m3u8"
+      "streaming_url": "https://live.hjkai791a.site/live/_definst_/stream_1_f1484@8yomo4hgpjkzq0j/chunklist.m3u8"
     },
     {
       "id": 6,
-      "title": "LIVE LEAGUE 6 HD",
+      "title": "LIVE LEAGUE 6 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-y0or5jhzdjv0qwz/chunklist_w25265659.m3u8"
+      "streaming_url": "https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8"
     },
     {
       "id": 5,
@@ -6376,6 +6375,15 @@
 
 
     {
+      "id": 14,
+      "title": "BEIN TEST 1 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Premier Leaguage",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "streaming_url": "https://ddh1.cdnhks.lol/ddh1/premium61/tracks-v1a1/mono.m3u8"
+    },
+    {
       "id": 13,
       "title": "BEIN SPORT 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
@@ -7290,7 +7298,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8"
     },
     {
       "id": 26,
@@ -7299,7 +7307,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8"
     },
     {
       "id": 25,
@@ -7308,7 +7316,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8"
     },
     {
       "id": 24,
@@ -7317,7 +7325,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8"
     },
     {
       "id": 23,
@@ -7326,7 +7334,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8"
     },
     {
       "id": 22,
@@ -7335,7 +7343,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8"
     },
     {
       "id": 21,
@@ -7344,7 +7352,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8"
     },
     {
       "id": 20,
@@ -7353,7 +7361,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8"
     },
     {
       "id": 19,
@@ -7362,16 +7370,16 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8"
     },
     {
       "id": 18,
       "title": "PPTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
+      "description": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeMDBlYjZkNGRmYTBkODg1MTc5OAM2NhMzcwY2FlODhmNTIz"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8"
     },
     {
       "id": 17,
@@ -7379,8 +7387,8 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
-      "user_agent": "",
-      "streaming_url": "https://s0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeMzVhNDFjYjUxMzBmMDY2MmQ2MQOTE2NDE4MWY2NzE3NGMw"
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8"
     },
     {
       "id": 16,
@@ -7388,8 +7396,8 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
-      "user_agent": "",
-      "streaming_url": "https://s0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeODhjNTcwMzVlNWYxMzU1ZDhhOANDVmNjE2NzhmMmFmZmIy"
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8"
     },
     {
       "id": 15,
@@ -7397,8 +7405,8 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
-      "user_agent": "",
-      "streaming_url": "https://s0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=bjeMTc4NTE1YmI4ZmY5YzliOGE4ZgNWZkN2M2NTg4YjhkYzMy"
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8"
     },
     {
       "id": 14,
@@ -7407,7 +7415,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://s0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=bjeOTExNDRhYjg1YzQyMjI1MDIxNwMzRkOTcxMTk4YjBjYTkw"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8"
     },
     {
       "id": 13,
@@ -7479,7 +7487,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8"
+      "streaming_url": "http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8"
     },
     {
       "id": 5,
@@ -7497,7 +7505,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8"
     },
     {
       "id": 3,
@@ -8170,7 +8178,7 @@
     {
       "id": 28,
       "title": "METRO GLOBE HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/METRO_GLOBE.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
@@ -8179,7 +8187,7 @@
     {
       "id": 27,
       "title": "MAGNA CHANNEL FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/MAGNA_CHANNEL.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
@@ -8188,7 +8196,7 @@
     {
       "id": 26,
       "title": "IDX CHANNEL HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/IDX_CHANNEL.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
@@ -8197,7 +8205,7 @@
     {
       "id": 25,
       "title": "VTV HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/VTV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
@@ -8404,25 +8412,25 @@
     {
       "id": 2,
       "title": "HIJRAH TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/HIJRAH_TV.png",
       "description": "",
       "category": "Local Indonesia",
-      "user_agent": "",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
     },
     {
       "id": 1,
       "title": "SURAU TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/SURAU_TV.png",
       "description": "",
       "category": "Local Indonesia",
-      "user_agent": "",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch3.m3u8"
     },
     {
       "id": 0,
       "title": "MQTV HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/MQTV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
