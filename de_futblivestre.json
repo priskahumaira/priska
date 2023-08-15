@@ -8236,7 +8236,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://kusnadipepenk.github.io/campeign/mnc.m3u8"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-mp4a_98800_eng=2-begin=2720361650077485-dur=100078070-seq=27203617.ts"
     },
     {
       "id": 21,
@@ -8245,7 +8245,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://beetv.my.id/x/oxygen-inews-gojokkk.m3u8"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-mp4a_66000_eng=2-begin=2720357480053333-dur=100053332-seq=27203575.ts"
     },
     {
       "id": 20,
@@ -8254,7 +8254,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://thefirefox12537.github.io/streams/geteve.m3u8"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-mp4a_98800_eng=2-begin=2720359740128263-dur=100078070-seq=27203598.ts"
     },
     {
       "id": 19,
@@ -8263,7 +8263,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://thefirefox12537.github.io/streams/ercetei.m3u8"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-mp4a_98800=2-begin=2720360340026662-dur=100053334-seq=27203604.ts"
     },
     {
       "id": 18,
@@ -8290,7 +8290,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://beetv.my.id/x/usee-jtv-gojokkk.m3u8"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV-mp4a_66000_eng=2-begin=2720365165865752-dur=99845798-seq=27203652.ts"
     },
     {
       "id": 15,
@@ -8343,7 +8343,7 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tvone.png",
       "description": "",
       "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0",
+      "user_agent": "",
       "streaming_url": "http://nonton.wap.sh/id/010.m3u8"
     },
     {
