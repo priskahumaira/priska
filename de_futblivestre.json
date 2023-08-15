@@ -8236,7 +8236,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-mp4a_98800_eng=2-begin=2720361650077485-dur=100078070-seq=27203617.ts"
+      "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8"
     },
     {
       "id": 21,
@@ -8245,7 +8245,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-mp4a_66000_eng=2-begin=2720357480053333-dur=100053332-seq=27203575.ts"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8"
     },
     {
       "id": 20,
@@ -8254,7 +8254,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-mp4a_98800_eng=2-begin=2720359740128263-dur=100078070-seq=27203598.ts"
+      "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8"
     },
     {
       "id": 19,
@@ -8263,7 +8263,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-mp4a_98800=2-begin=2720360340026662-dur=100053334-seq=27203604.ts"
+      "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8"
     },
     {
       "id": 18,
@@ -8290,7 +8290,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV-mp4a_66000_eng=2-begin=2720365165865752-dur=99845798-seq=27203652.ts"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8"
     },
     {
       "id": 15,
@@ -8344,7 +8344,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://nonton.wap.sh/id/010.m3u8"
+      "streaming_url": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8"
     },
     {
       "id": 9,
