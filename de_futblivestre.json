@@ -8204,7 +8204,7 @@
     },
     {
       "id": 25,
-      "title": "VTV HD FIX",
+      "title": "VTV HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/VTV.png",
       "description": "",
       "category": "Local Indonesia",
@@ -8213,7 +8213,7 @@
     },
     {
       "id": 24,
-      "title": "GTV FIX",
+      "title": "GTV",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/gtv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -8222,7 +8222,7 @@
     },
     {
       "id": 23,
-      "title": "RCTI FIX",
+      "title": "RCTI",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/rcti.png",
       "description": "",
       "category": "Local Indonesia",
@@ -8249,7 +8249,7 @@
     },
     {
       "id": 20,
-      "title": "GTV",
+      "title": "GTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/gtv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -8258,7 +8258,7 @@
     },
     {
       "id": 19,
-      "title": "RCTI",
+      "title": "RCTI FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/rcti.png",
       "description": "",
       "category": "Local Indonesia",
@@ -8344,7 +8344,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8"
+      "streaming_url": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/296214"
     },
     {
       "id": 9,
