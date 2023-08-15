@@ -8191,7 +8191,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://thefirefox12537.github.io/streams/magna.m3u8"
+      "streaming_url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
     },
     {
       "id": 26,
@@ -8209,7 +8209,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8"
+      "streaming_url": "http://thefirefox12537.github.io/streams/vivateve.m3u8"
     },
     {
       "id": 24,
@@ -8281,7 +8281,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://210.210.155.35/qwr9ew/s/s13/02.m3u8"
+      "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/daaiteve/index.m3u8"
     },
     {
       "id": 16,
@@ -8343,8 +8343,8 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tvone.png",
       "description": "",
       "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "http://kusnadipepenk.github.io/campeign/tvone.m3u8"
+      "user_agent": "Mozilla/5.0",
+      "streaming_url": "http://nonton.wap.sh/id/010.m3u8"
     },
     {
       "id": 9,
