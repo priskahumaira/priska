@@ -28,8 +28,8 @@
     {
       "ad_status": 1,
 
-      "main_ad": "admob",
-      "backup_ad": "applovin_discovery",
+      "main_ad": "applovin_discovery",
+      "backup_ad": "admob",
 
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -223,7 +223,7 @@
       "name": "Bein Sport",
       "image": "https://raw.githubusercontent.com/priskahumaira/humaira/main/tv_stream_icon.png"
     }
-  ]
+  ],
 
 
 
@@ -8191,7 +8191,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://thefirefox12537.github.io/streams/magna.m3u8"
+      "streaming_url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
     },
     {
       "id": 26,
@@ -8200,20 +8200,20 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://kusnadipepenk.github.io/campeign/idx.m3u8"
+      "streaming_url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/idxchannel.m3u8"
     },
     {
       "id": 25,
-      "title": "VTV HD FIX",
+      "title": "VTV HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/VTV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8"
+      "streaming_url": "http://thefirefox12537.github.io/streams/vivateve.m3u8"
     },
     {
       "id": 24,
-      "title": "GTV FIX",
+      "title": "GTV",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/gtv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -8222,7 +8222,7 @@
     },
     {
       "id": 23,
-      "title": "RCTI FIX",
+      "title": "RCTI",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/rcti.png",
       "description": "",
       "category": "Local Indonesia",
@@ -8236,7 +8236,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://kusnadipepenk.github.io/campeign/mnc.m3u8"
+      "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8"
     },
     {
       "id": 21,
@@ -8245,25 +8245,25 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://beetv.my.id/x/oxygen-inews-gojokkk.m3u8"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8"
     },
     {
       "id": 20,
-      "title": "GTV",
+      "title": "GTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/gtv.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://thefirefox12537.github.io/streams/geteve.m3u8"
+      "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8"
     },
     {
       "id": 19,
-      "title": "RCTI",
+      "title": "RCTI FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/rcti.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://thefirefox12537.github.io/streams/ercetei.m3u8"
+      "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8"
     },
     {
       "id": 18,
@@ -8281,7 +8281,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://210.210.155.35/qwr9ew/s/s13/02.m3u8"
+      "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/daaiteve/index.m3u8"
     },
     {
       "id": 16,
@@ -8290,7 +8290,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://beetv.my.id/x/usee-jtv-gojokkk.m3u8"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8"
     },
     {
       "id": 15,
@@ -8344,7 +8344,7 @@
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://kusnadipepenk.github.io/campeign/tvone.m3u8"
+      "streaming_url": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8"
     },
     {
       "id": 9,
