@@ -236,8 +236,8 @@
       "image": "https://raw.githubusercontent.com/priskahumaira/humaira/main/tv_stream_icon.png",
       "description": "",
       "category": "Live Sports",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-      "streaming_url": "https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/2022/s2/"
+      "user_agent": "",
+      "streaming_url": "https://kusnadipepenk.github.io/ntn/elesp3.m3u8"
     },
     {
       "id": 51,
@@ -245,8 +245,8 @@
       "image": "https://raw.githubusercontent.com/priskahumaira/humaira/main/tv_stream_icon.png",
       "description": "",
       "category": "Live Sports",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-      "streaming_url": "https://nflarcadia.xyz/hls/s1.m3u8?|Referer=https://techclips.net/2022/s1"
+      "user_agent": "",
+      "streaming_url": "https://kusnadipepenk.github.io/ntn/skyfut.m3u8"
     },
     {
       "id": 50,
