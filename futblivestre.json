@@ -28,13 +28,13 @@
     {
       "ad_status": 1,
 
-      "main_ad": "applovin_discovery",
-      "backup_ad": "admob",
+      "main_ad": "admob",
+      "backup_ad": "applovin_max",
 
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner_unit_id": "ca-app-pub-4264468460916165/1265923827",
+      "admob_interstitial_unit_id": "ca-app-pub-4264468460916165/2845193839",
+      "admob_native_unit_id": "ca-app-pub-4264468460916165/9219030490",
+      "admob_app_open_unit_id": "ca-app-pub-4264468460916165/7583101929",
 
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
@@ -51,10 +51,10 @@
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
 
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "0",
-      "applovin_native_manual_unit_id": "0",
-      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_unit_id": "089a3d0c35225b8d",
+      "applovin_interstitial_unit_id": "9f9ed5d560a4b5ce",
+      "applovin_native_manual_unit_id": "059e4367368a7abb",
+      "applovin_open_ad_unit_id": "9462c5f0514e5f8e",
 
       "applovin_banner_zone_id": "fbfa9deb2740ff08",
       "applovin_interstitial_zone_id": "87a9dfe7047fe65c",
@@ -63,7 +63,7 @@
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
 
-      "interstitial_ad_interval": 3,
+      "interstitial_ad_interval": 5,
 
       "native_ad_index_list": 7,
       "native_ad_index_grid2": 6,
