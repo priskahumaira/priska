@@ -28,8 +28,8 @@
     {
       "ad_status": 1,
 
-      "main_ad": "admob",
-      "backup_ad": "applovin_max",
+      "main_ad": "fan",
+      "backup_ad": "admob",
 
       "admob_banner_unit_id": "ca-app-pub-4264468460916165/1265923827",
       "admob_interstitial_unit_id": "ca-app-pub-4264468460916165/2845193839",
@@ -41,9 +41,9 @@
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
 
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901557382611",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901594049274",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901660715934",
+      "fan_banner_unit_id": "244589755203851_244598698536290",
+      "fan_interstitial_unit_id": "244589755203851_244598888536271",
+      "fan_native_unit_id": "244589755203851_244599391869554",
 
       "startapp_app_id": "0",
 
