@@ -1,0 +1,409 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien": "null",
+      "switch_open_ads": "1",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+
+      "backup_ads_banner": "fbfa9deb2740ff08",
+      "backup_ads_intertitial": "87a9dfe7047fe65c",
+      "backup_ads_natives": "null",
+
+      "interval_intertitial": "2",
+      "counter_intertitial": "0",
+
+      "switch_banner_natives_ads": "2",
+      "start_position_native_ads": "2",
+      "interval_native_ads": "6",
+
+      "random_list": "0",
+      "on_off_category": "1",
+      "on_off_moreapp": "1",
+
+      "one_signal_api_key": "null",
+      "link_moreapp": "https://play.google.com/store/apps/developer?id=",
+
+      "child_direct_gdpr": "true",
+
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+
+      "protect_app": "false",
+      "base_64_license_key": "null",
+
+      "high_paying_keyword_1": "Insurance,Finance,Gas,Electricity,Mortgage,Attorney,Loans,Lawyer,Donate,Conference Call,Degree,Credit,Treatment,Software,Classes,Recovery,Trading,Rehab,Hosting,Transfer,Claim",
+      "high_paying_keyword_2": "Selandia Baru,Norwegia,Australia,Kanada,Inggris Raya,Amerika Serikat,India,Irlandia,Belanda,Jerman,Finlandia,Perancis,Italy,Swiss",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Property",
+      "high_paying_keyword_5": "Pinjol",
+
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+  
+  "More":
+  [
+    
+  ],
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gambar/1.webp"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "image": "file:///android_asset/gambar/7.webp"
+    },
+	{
+      "id": 3,
+      "name_category": "Food",
+      "image": "file:///android_asset/gambar/6.webp"
+    },
+	{
+      "id": 4,
+      "name_category": "Motivation",
+      "image": "file:///android_asset/gambar/5.webp"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Tips",
+      "image": "file:///android_asset/gambar/3.webp"
+    },
+	{
+      "id": 6,
+      "name_category": "Coming Soon",
+      "image": "file:///android_asset/gambar/2.webp"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "Comprehensive Guide to Pregnancy",
+      "image": "file:///android_asset/gambar/1.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Comprehensive Guide to Pregnancy Testing",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Calculating the Right Time for a Pregnancy",
+      "image": "file:///android_asset/gambar/7.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Calculating the Right Time for a Pregnancy Test: A Practical Guide",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "At-Home Pregnancy Tests vs. Doctor's",
+      "image": "file:///android_asset/gambar/3.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More At-Home Pregnancy Tests vs. Doctor's Office Tests: Which is More Accurate?",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Guide",
+      "title": "How to Read Pregnancy Test Results",
+      "image": "file:///android_asset/gambar/2.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More How to Read Pregnancy Test Results Correctly: Tips and Tricks You Need to Know",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Positive Pregnancy Test: What to Do Next?",
+      "image": "file:///android_asset/gambar/1.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Positive Pregnancy Test: What to Do Next?",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+	{
+      "id": 34,
+      "name_category": "Tips",
+      "title": "Pregnancy Due Date Calculator",
+      "image": "file:///android_asset/gambar/7.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Pregnancy Due Date Calculator",
+      "link": "https://flo.health/tools/due-date-calculator"
+    },
+    {
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Negative Pregnancy Test: When to Retest",
+      "image": "file:///android_asset/gambar/3.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Negative Pregnancy Test: When to Retest and What to Look Out For?",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Pregnancy Test Guide for Couples Planning",
+      "image": "file:///android_asset/gambar/1.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Pregnancy Test Guide for Couples Planning to Conceive",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Dealing with Unwanted Pregnancy Test",
+      "image": "file:///android_asset/gambar/2.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Dealing with Unwanted Pregnancy Test Results: Tips to Overcome Failure or Unplanned Pregnancy",
+      "link": "file:///android_asset/guide/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Information",
+      "title": "How to Test Pregnancy: A Comprehensive",
+      "image": "file:///android_asset/gambar/4.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More How to Test Pregnancy: A Comprehensive Guide",
+      "link": "file:///android_asset/guide/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Information",
+      "title": "The Ultimate Pregnancy Test Guide: How to",
+      "image": "file:///android_asset/gambar/2.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More The Ultimate Pregnancy Test Guide: How to Test Like a Pro",
+      "link": "file:///android_asset/guide/guide10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Information",
+      "title": "Testing for Pregnancy: Everything You",
+      "image": "file:///android_asset/gambar/1.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Testing for Pregnancy: Everything You Need to Know",
+      "link": "file:///android_asset/guide/guide11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Information",
+      "title": "How to Test for Pregnancy at Home:",
+      "image": "file:///android_asset/gambar/2.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More How to Test for Pregnancy at Home: Step-by-Step Instructions",
+      "link": "file:///android_asset/guide/guide12.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Information",
+      "title": "Pregnancy Testing 101: What You Need to",
+      "image": "file:///android_asset/gambar/7.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Pregnancy Testing 101: What You Need to Know",
+      "link": "file:///android_asset/guide/guide13.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Information",
+      "title": "The Do's and Don'ts of Pregnancy Testing",
+      "image": "file:///android_asset/gambar/3.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More The Do's and Don'ts of Pregnancy Testing",
+      "link": "file:///android_asset/guide/guide14.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Information",
+      "title": "Testing for Pregnancy: When and How to",
+      "image": "file:///android_asset/gambar/4.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Testing for Pregnancy: When and How to Do It",
+      "link": "file:///android_asset/guide/guide15.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Information",
+      "title": "The Accuracy of Pregnancy Tests: What",
+      "image": "file:///android_asset/gambar/3.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More The Accuracy of Pregnancy Tests: What You Should Know",
+      "link": "file:///android_asset/guide/guide16.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Information",
+      "title": "Clearing Up Common Misconceptions",
+      "image": "file:///android_asset/gambar/7.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Clearing Up Common Misconceptions About Pregnancy Testing",
+      "link": "file:///android_asset/guide/guide17.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Information",
+      "title": "How to Interpret Your Pregnancy Test",
+      "image": "file:///android_asset/gambar/2.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More How to Interpret Your Pregnancy Test Results",
+      "link": "file:///android_asset/guide/guide18.html"
+    },
+    {
+      "id": 19,
+      "name_category": "Information",
+      "title": "Disclaimer",
+      "image": "file:///android_asset/gambar/7.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Disclaimer",
+      "link": "file:///android_asset/guide/guide19.html"
+    },
+	{
+      "id": 30,
+      "name_category": "Food",
+      "title": "10 Healthy Foods for Pregnant Women:",
+      "image": "file:///android_asset/gambar/6.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More 10 Healthy Foods for Pregnant Women: Building a Healthy Life",
+      "link": "file:///android_asset/guide/guide30.html"
+    },
+	{
+      "id": 31,
+      "name_category": "Food",
+      "title": "Balanced Nutrition Menu for Pregnant",
+      "image": "file:///android_asset/gambar/6.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Balanced Nutrition Menu for Pregnant Women: Ensuring Your Health and Your Baby's Well-Being",
+      "link": "file:///android_asset/guide/guide31.html"
+    },
+    {
+      "id": 32,
+      "name_category": "Food",
+      "title": "Healthy Pregnant Mother, Healthy Baby: 5",
+      "image": "file:///android_asset/gambar/6.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Healthy Pregnant Mother, Healthy Baby: 5 Easy-to-Make Nutritious Recipes",
+      "link": "file:///android_asset/guide/guide32.html"
+    },
+    {
+      "id": 33,
+      "name_category": "Food",
+      "title": "Energizing Foods for Pregnant Women:",
+      "image": "file:///android_asset/gambar/6.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Energizing Foods for Pregnant Women: Providing Essential Energy and Nutrition",
+      "link": "file:///android_asset/guide/guide33.html"
+    },
+    {
+      "id": 34,
+      "name_category": "Food",
+      "title": "Pay Attention to Your Food Intake: Tips for",
+      "image": "file:///android_asset/gambar/6.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Pay Attention to Your Food Intake: Tips for a Healthy Diet During Pregnancy",
+      "link": "file:///android_asset/guide/guide34.html"
+    },
+    {
+      "id": 20,
+      "name_category": "Motivation",
+      "title": "Embracing the Miracles of Life: Inspiration",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Embracing the Miracles of Life: Inspiration for Expecting Mothers",
+      "link": "file:///android_asset/guide/guide20.html"
+    },
+	{
+      "id": 21,
+      "name_category": "Motivation",
+      "title": "Journey to Motherhood: Words of",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Journey to Motherhood: Words of Motivation for Embracing Pregnancy",
+      "link": "file:///android_asset/guide/guide21.html"
+    },
+    {
+      "id": 22,
+      "name_category": "Motivation",
+      "title": "Amazing Pregnant Mother: Unleashing",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Amazing Pregnant Mother: Unleashing Strength in Every Stage of Life",
+      "link": "file:///android_asset/guide/guide22.html"
+    },
+    {
+      "id": 23,
+      "name_category": "Motivation",
+      "title": "Bonding with Your Unborn: Motivation for",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Bonding with Your Unborn: Motivation for Loving Mothers-to-Be",
+      "link": "file:///android_asset/guide/guide23.html"
+    },
+    {
+      "id": 24,
+      "name_category": "Motivation",
+      "title": "Pregnant Mother's Bliss: Facing Challenges",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Pregnant Mother's Bliss: Facing Challenges with Spirit and Courage",
+      "link": "file:///android_asset/guide/guide24.html"
+    },
+    {
+      "id": 25,
+      "name_category": "Motivation",
+      "title": "Bringing New Life: Words of Motivation for",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Bringing New Life: Words of Motivation for Strong Pregnant Mothers",
+      "link": "file:///android_asset/guide/guide25.html"
+    },
+    {
+      "id": 26,
+      "name_category": "Motivation",
+      "title": "Sailing Through Pregnancy: Inspiring",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Sailing Through Pregnancy: Inspiring Mothers on the Journey of Beauty",
+      "link": "file:///android_asset/guide/guide26.html"
+    },
+    {
+      "id": 27,
+      "name_category": "Motivation",
+      "title": "Sharpening the Motherly Instinct:",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Sharpening the Motherly Instinct: Motivation to Embrace Pregnancy with Love and Care",
+      "link": "file:///android_asset/guide/guide27.html"
+    },
+    {
+      "id": 28,
+      "name_category": "Motivation",
+      "title": "The Inner Strength of Motherhood: Words",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More The Inner Strength of Motherhood: Words of Motivation to Embrace the Arrival of Your Child",
+      "link": "file:///android_asset/guide/guide28.html"
+    },
+    {
+      "id": 29,
+      "name_category": "Motivation",
+      "title": "Facing Change: Inspiration for Pregnant",
+      "image": "file:///android_asset/gambar/5.webp",
+      "gambar": "file:///android_asset/gambar/detail.webp",
+      "description": "Read More Facing Change: Inspiration for Pregnant Mothers in Overcoming Challenges",
+      "link": "file:///android_asset/guide/guide29.html"
+    }
+  ]
+}
