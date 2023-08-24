@@ -146,7 +146,7 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
-      "streaming_url": "https://tvmu.siar.us/tvmu/live/playlist.m3u8"
+      "streaming_url": "https://e.siar.us/live/tvmu.m3u8"
     },
     {
       "id": 3,
@@ -443,26 +443,16 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch27.m3u8"
+      "streaming_url": "https://h1.intechmedia.net/intech/ch28.m3u8"
     },
-
-
-
-
-
-
-
-
-
-    
     {
       "id": 36,
-      "title": "TVRI SUMSEL FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/TVRI_SUMSEL.png",
+      "title": "ADI TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
-      "category": "Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://raw.githubusercontent.com/misnatun/channels/main/TVRI_SUMSEL.png"
+      "category": "Muslim TV",
+      "user_agent": "",
+      "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/daerah/aditv.m3u8"
     },
 
 
@@ -553,7 +543,7 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
-      "streaming_url": "http://thefirefox12537.github.io/streams/metroglob.m3u8"
+      "streaming_url": "http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8"
     },
     {
       "id": 46,
@@ -571,7 +561,7 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
-      "streaming_url": "http://thefirefox12537.github.io/streams/magna.m3u8"
+      "streaming_url": "http://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8"
     },
     {
       "id": 48,
@@ -661,7 +651,7 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
-      "streaming_url": "http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8"
+      "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/vivateve/index.m3u8"
     },
     {
       "id": 58,
@@ -670,7 +660,7 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
-      "streaming_url": "http://beetv.my.id/x/usee-jtv-gojokkk.m3u8"
+      "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8"
     },
     {
       "id": 59,
@@ -688,7 +678,7 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
-      "streaming_url": "http://210.210.155.35/qwr9ew/s/s13/02.m3u8"
+      "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/daaiteve/index.m3u8"
     },
     
     {
@@ -1003,7 +993,7 @@
     {
       "id": 7,
       "title": "TVRI SULSEL FIX",
-      "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-selatan-id.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/TVRI_SUMSEL.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
