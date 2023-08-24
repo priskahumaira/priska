@@ -389,7 +389,7 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch17.m3u8"
+      "streaming_url": "https://h1.intechmedia.net/intech/ch18.m3u8"
     },
     {
       "id": 30,
@@ -688,7 +688,7 @@
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch53.m3u8"
+      "streaming_url": "https://h1.intechmedia.net/intech/ch51.m3u8"
     },
     {
       "id": 62,
