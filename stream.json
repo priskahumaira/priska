@@ -134,7 +134,7 @@
       "id": 1,
       "title": "TV9 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/TV9.png",
-      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba menggunakan server lain.",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8"
@@ -143,7 +143,7 @@
       "id": 2,
       "title": "TVMU HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png",
-      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba menggunakan server lain.",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://tvmu.siar.us/tvmu/live/playlist.m3u8"
@@ -152,7 +152,7 @@
       "id": 3,
       "title": "MTA HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MTA_TV.png",
-      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba menggunakan server lain.",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8"
@@ -161,7 +161,7 @@
       "id": 4,
       "title": "RODJA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png",
-      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba menggunakan server lain.",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8"
@@ -170,7 +170,7 @@
       "id": 5,
       "title": "BRTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/BRTV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://e1.siar.us/badartv/live/playlist.m3u8"
@@ -179,7 +179,7 @@
       "id": 6,
       "title": "PUJA TV ACEH FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/PUJA_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://v6.siar.us/pujatv/live/chunks.m3u8"
@@ -188,7 +188,7 @@
       "id": 7,
       "title": "AL WAFA TARIM FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_WAFA.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
@@ -197,7 +197,7 @@
       "id": 8,
       "title": "MQTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MQTV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
@@ -206,7 +206,7 @@
       "id": 9,
       "title": "INSPIRA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/INSPIRA_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
@@ -215,7 +215,7 @@
       "id": 10,
       "title": "AL SUNNAH NABAWI FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8"
@@ -224,7 +224,7 @@
       "id": 11,
       "title": "WESAL TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/WESAL_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
@@ -233,7 +233,7 @@
       "id": 12,
       "title": "AL QURAN KAREEM  FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://edge.taghtia.com/sa/7.m3u8"
@@ -242,7 +242,7 @@
       "id": 13,
       "title": "ARTVISI AUDIO FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/ARTVISI.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://streaming.yufid.com/hls/artvisi.m3u8"
@@ -251,7 +251,7 @@
       "id": 14,
       "title": "INSAN TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/INSAN_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch1.m3u8"
@@ -260,7 +260,7 @@
       "id": 15,
       "title": "ASHIIL TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/ASHILL_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch2.m3u8"
@@ -269,7 +269,7 @@
       "id": 16,
       "title": "SURAU TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/SURAU_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch3.m3u8"
@@ -278,7 +278,7 @@
       "id": 17,
       "title": "AHSAN TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AHSAN_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch4.m3u8"
@@ -287,7 +287,7 @@
       "id": 18,
       "title": "MUADZ TV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MUADZ_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch5.m3u8"
@@ -296,7 +296,7 @@
       "id": 19,
       "title": "RASYAAD TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/RASYAAD_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch6.m3u8"
@@ -305,7 +305,7 @@
       "id": 20,
       "title": "NAAJIYA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/NAAJIYA_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch7.m3u8"
@@ -314,7 +314,7 @@
       "id": 21,
       "title": "HIJRAH TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/HIJRAH_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
@@ -323,7 +323,7 @@
       "id": 22,
       "title": "AL IMAN TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_IMAN_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch9.m3u8"
@@ -332,7 +332,7 @@
       "id": 23,
       "title": "NIAGA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/NIAGA_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch10.m3u8"
@@ -341,7 +341,7 @@
       "id": 24,
       "title": "SALAM TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/SALAM_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch12.m3u8"
@@ -350,7 +350,7 @@
       "id": 25,
       "title": "LIVE MADINAH FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch13.m3u8"
@@ -359,7 +359,7 @@
       "id": 26,
       "title": "LIVE MAKKAH FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch14.m3u8"
@@ -368,7 +368,7 @@
       "id": 27,
       "title": "PULDAPII TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/PULDAPII_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch15.m3u8"
@@ -377,7 +377,7 @@
       "id": 28,
       "title": "TV SUNNAH FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/TV_SUNNAH.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch16.m3u8"
@@ -386,7 +386,7 @@
       "id": 29,
       "title": "SJP TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/SJP_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch17.m3u8"
@@ -395,7 +395,7 @@
       "id": 30,
       "title": "BINA MADANI FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/BINA_MADANI_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch20.m3u8"
@@ -404,7 +404,7 @@
       "id": 31,
       "title": "BIN BAZ TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/BINBAZ_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch22.m3u8"
@@ -413,7 +413,7 @@
       "id": 32,
       "title": "MEDS TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MEDS_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch23.m3u8"
@@ -422,7 +422,7 @@
       "id": 33,
       "title": "AL-FURQON TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_FURQON_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch24.m3u8"
@@ -431,7 +431,7 @@
       "id": 34,
       "title": "MGI TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MGI_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch25.m3u8"
@@ -440,7 +440,7 @@
       "id": 35,
       "title": "IZZAH TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/IZZAH_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Muslim TV",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch27.m3u8"
@@ -459,7 +459,7 @@
       "id": 36,
       "title": "TVRI SUMSEL FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/TVRI_SUMSEL.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://raw.githubusercontent.com/misnatun/channels/main/TVRI_SUMSEL.png"
@@ -478,7 +478,7 @@
       "id": 37,
       "title": "TV ONE FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tvone.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8"
@@ -487,7 +487,7 @@
       "id": 38,
       "title": "METRO TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/metrotv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://kusnadipepenk.github.io/campeign/metro.m3u8"
@@ -496,7 +496,7 @@
       "id": 39,
       "title": "KOMPAS TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/kompastv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8"
@@ -505,7 +505,7 @@
       "id": 40,
       "title": "INEWS FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/inewstv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8"
@@ -514,7 +514,7 @@
       "id": 41,
       "title": "CNN INDONESIA FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/cnn.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8"
@@ -523,7 +523,7 @@
       "id": 42,
       "title": "CNBC INDONESIA FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/cnbc.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
@@ -532,7 +532,7 @@
       "id": 43,
       "title": "BERITASATU FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/beritasatu.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
@@ -541,7 +541,7 @@
       "id": 44,
       "title": "BERITASATU WORLD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/beritasatuworld.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8"
@@ -550,7 +550,7 @@
       "id": 45,
       "title": "METRO GLOBE HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/METRO_GLOBE.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://thefirefox12537.github.io/streams/metroglob.m3u8"
@@ -559,7 +559,7 @@
       "id": 46,
       "title": "IDX CHANNEL HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/IDX_CHANNEL.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://kusnadipepenk.github.io/campeign/idx.m3u8"
@@ -568,7 +568,7 @@
       "id": 47,
       "title": "MAGNA CHANNEL FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MAGNA_CHANNEL.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://thefirefox12537.github.io/streams/magna.m3u8"
@@ -577,7 +577,7 @@
       "id": 48,
       "title": "NUSANTARA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/nusantaratv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8"
@@ -586,7 +586,7 @@
       "id": 49,
       "title": "MNC TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/mnctv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8"
@@ -595,7 +595,7 @@
       "id": 50,
       "title": "ANTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/antv_keren_ok.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://210.210.155.37/qwr9ew/s/s07/index1.m3u8"
@@ -604,7 +604,7 @@
       "id": 51,
       "title": "RCTI FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/rcti.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8"
@@ -613,7 +613,7 @@
       "id": 52,
       "title": "GTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/gtv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8"
@@ -622,7 +622,7 @@
       "id": 53,
       "title": "TRANS 7 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/trans7.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8"
@@ -631,7 +631,7 @@
       "id": 54,
       "title": "TRANS TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/transtv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8"
@@ -640,7 +640,7 @@
       "id": 55,
       "title": "NET TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/nettv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://210.210.155.37/qwr9ew/s/s08/index.m3u8"
@@ -649,7 +649,7 @@
       "id": 56,
       "title": "RTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/rtv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8"
@@ -658,7 +658,7 @@
       "id": 57,
       "title": "VTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/VTV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8"
@@ -667,7 +667,7 @@
       "id": 58,
       "title": "JTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/jtv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://beetv.my.id/x/usee-jtv-gojokkk.m3u8"
@@ -676,7 +676,7 @@
       "id": 59,
       "title": "MNC TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/mnctv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
@@ -685,7 +685,7 @@
       "id": 60,
       "title": "DAAI TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/daaitv.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "",
       "streaming_url": "http://210.210.155.35/qwr9ew/s/s13/02.m3u8"
@@ -695,7 +695,7 @@
       "id": 61,
       "title": "RTM HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/RTM_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch53.m3u8"
@@ -704,7 +704,7 @@
       "id": 62,
       "title": "AFBTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AFBTV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch54.m3u8"
@@ -713,7 +713,7 @@
       "id": 63,
       "title": "GEMILANG TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/GEMILANG_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch55.m3u8"
@@ -722,7 +722,7 @@
       "id": 64,
       "title": "SAMPIT TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/SAMPIT_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch56.m3u8"
@@ -731,7 +731,7 @@
       "id": 65,
       "title": "BETV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/BETV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch58.m3u8"
@@ -740,7 +740,7 @@
       "id": 66,
       "title": "RBTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/RBTV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch59.m3u8"
@@ -749,7 +749,7 @@
       "id": 67,
       "title": "JITV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/JITV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch65.m3u8"
@@ -767,7 +767,7 @@
       "id": 33,
       "title": "TVRI NASIONAL FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8"
@@ -776,7 +776,7 @@
       "id": 32,
       "title": "TVRI SPORT 1 FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-sport-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRI4/index.m3u8"
@@ -785,7 +785,7 @@
       "id": 31,
       "title": "TVRI SPORT FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-sport-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "http://210.210.155.37/session/f66250be-5c6f-11ed-aeaf-b82a72d63267/qwr9ew/s/s107/index.m3u8"
@@ -794,7 +794,7 @@
       "id": 30,
       "title": "TVRI WORLD FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://kawaguchimaeda230810.b-cdn.net/play/teveeri-ott/TVRI3/index.m3u8"
@@ -804,7 +804,7 @@
       "id": 29,
       "title": "TVRI YOGYAKARTA FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-yogyakarta-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIYOGYAKARTA/index.m3u8"
@@ -813,7 +813,7 @@
       "id": 28,
       "title": "TVRI ACEH FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-aceh-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIACEH/index.m3u8"
@@ -822,7 +822,7 @@
       "id": 27,
       "title": "TVRI BALI FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-bali-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIBALI/index.m3u8"
@@ -831,7 +831,7 @@
       "id": 26,
       "title": "TVRI BABEL FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-bangka-belitung-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIBABEL/index.m3u8"
@@ -840,7 +840,7 @@
       "id": 25,
       "title": "TVRI BENGKULU FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-bengkulu-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIBENGKULU/index.m3u8"
@@ -849,7 +849,7 @@
       "id": 24,
       "title": "TVRI DKI FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-jakarta-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://kawaguchimaeda230810.b-cdn.net/play/teveeri-ott/TVRIDKI/index.m3u8"
@@ -858,7 +858,7 @@
       "id": 23,
       "title": "TVRI GORONTALO FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-gorontalo-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIGORONTALO/index.m3u8"
@@ -867,7 +867,7 @@
       "id": 22,
       "title": "TVRI JAMBI FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-jambi-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIJAMBI/index.m3u8"
@@ -876,7 +876,7 @@
       "id": 21,
       "title": "TVRI JAWA BARAT FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-jawa-barat-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIJABARBANDUNG/index.m3u8"
@@ -885,7 +885,7 @@
       "id": 20,
       "title": "TVRI JAWA TENGAH FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-jawa-tengah-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIJATENGSEMARANG/index.m3u8"
@@ -895,7 +895,7 @@
       "id": 19,
       "title": "TVRI JAWA TIMUR FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-jawa-timur-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIJATIMSURABAYA/index.m3u8"
@@ -904,7 +904,7 @@
       "id": 18,
       "title": "TVRI KALBAR FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-kalimantan-barat-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIKALBAR/index.m3u8"
@@ -913,7 +913,7 @@
       "id": 17,
       "title": "TVRI KALSEL",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-kalimantan-selatan-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8"
@@ -922,7 +922,7 @@
       "id": 16,
       "title": "TVRI KALTENG FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-kalteng-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIKALTENG/index.m3u8"
@@ -931,7 +931,7 @@
       "id": 15,
       "title": "TVRI KALTIM FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-kaltim-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIKALTIMSAMARINDA/index.m3u8"
@@ -940,7 +940,7 @@
       "id": 14,
       "title": "TVRI LAMPUNG FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-lampung-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRILAMPUNG/index.m3u8"
@@ -949,7 +949,7 @@
       "id": 13,
       "title": "TVRI AMBON FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-maluku-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIMALUKUAMBON/index.m3u8"
@@ -958,7 +958,7 @@
       "id": 12,
       "title": "TVRI NTB FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-nusa-tenggara-barat-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRINTBMATARAM/index.m3u8"
@@ -967,7 +967,7 @@
       "id": 11,
       "title": "TVRI NTT FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-nusa-tenggara-timur-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRINTTKUPANG/index.m3u8"
@@ -976,7 +976,7 @@
       "id": 10,
       "title": "TVRI PAPUA FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-papua-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIPAPUA/index.m3u8"
@@ -986,7 +986,7 @@
       "id": 9,
       "title": "TVRI RIAU FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-riau-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRIRIAU/index.m3u8"
@@ -995,7 +995,7 @@
       "id": 8,
       "title": "TVRI SULBAR FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-barat-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRISULBARMAJENE/index.m3u8"
@@ -1004,7 +1004,7 @@
       "id": 7,
       "title": "TVRI SULSEL FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-selatan-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRISULSELMAKASAR/index.m3u8"
@@ -1013,7 +1013,7 @@
       "id": 6,
       "title": "TVRI SULTENG FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-tengah-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRISULTENGPALU/index.m3u8"
@@ -1022,7 +1022,7 @@
       "id": 5,
       "title": "TVRI SULTRA FIX",
       "image": "https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-tenggara-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRISULTRA/index.m3u8"
@@ -1031,7 +1031,7 @@
       "id": 4,
       "title": "TVRI SULUT FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-sulawesi-utara-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRISULUTMANADO/index.m3u8"
@@ -1040,7 +1040,7 @@
       "id": 3,
       "title": "TVRI SUMBAR FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-sumbar-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRISUMBARPADANG/index.m3u8"
@@ -1049,7 +1049,7 @@
       "id": 2,
       "title": "TVRI SUMSEL FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-sumsel-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRISUMSEL/index.m3u8"
@@ -1058,7 +1058,7 @@
       "id": 1,
       "title": "TVRI SUMUT FIX",
       "image": "https://www.lyngsat.com/logo/tv/tt/tvri-sumatera-utara-id.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/teveeri-ott/TVRISUMUTMEDAN/index.m3u8"
