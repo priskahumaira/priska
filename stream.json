@@ -134,7 +134,7 @@
       "id": 1,
       "title": "TV9 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/TV9.png",
-      "description": "Silahkan tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran tv di server ini bermasalah, bisa coba menggunakan server lain yang tersedia.",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba menggunakan server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8"
@@ -143,7 +143,7 @@
       "id": 2,
       "title": "TVMU HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png",
-      "description": "Silahkan tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran tv di server ini bermasalah, bisa coba menggunakan server lain yang tersedia.",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba menggunakan server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://tvmu.siar.us/tvmu/live/playlist.m3u8"
@@ -152,7 +152,7 @@
       "id": 3,
       "title": "MTA HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MTA_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba menggunakan server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8"
@@ -161,7 +161,7 @@
       "id": 4,
       "title": "RODJA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png",
-      "description": "",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba menggunakan server lain.",
       "category": "Muslim TV",
       "user_agent": "",
       "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8"
