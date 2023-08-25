@@ -455,6 +455,24 @@
       "user_agent": "",
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/daerah/aditv.m3u8"
     },
+    {
+      "id": 37,
+      "title": "SRB FIX",
+      "image": "https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/6_q7t5qv.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "",
+      "streaming_url": "https://www.youtube.com/@SyafiqRizaBasalamahOfficial/live"
+    },
+    {
+      "id": 38,
+      "title": "GAZWAH TV FIX",
+      "image": "https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/3_ujpm4f.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "",
+      "streaming_url": "https://www.youtube.com/@GazwahTVOfficial/live"
+    },
 
 
 
@@ -874,7 +892,7 @@
     },
     {
       "id": 17,
-      "title": "TVRI KALSEL",
+      "title": "TVRI KALSEL FIX",
       "image": "https://i.postimg.cc/PfZFN7GQ/TVRIKALSEL.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
       "category": "TVRI",
