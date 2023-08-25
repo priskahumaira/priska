@@ -4,7 +4,7 @@
       "status": 1,
       "redirect_url": "",
 
-      "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/priskahumaira/priska/main/privacy_policy.html",
+      "privacy_policy_url": "file:///android_asset/privacy_policy.html",
       "email_feedback_and_report": "priskapakpahan28@gmail.com",
 
       "show_related_channels": true,
