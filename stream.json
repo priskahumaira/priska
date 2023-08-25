@@ -11,8 +11,9 @@
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_vpn_access": false,
-      "enable_dark_mode_as_default_theme": false,
-      "landscape_mode_as_default_player_orientation": false,
+      
+      "enable_dark_mode_as_default_theme": true,
+      "landscape_mode_as_default_player_orientation": true,
 
       "enable_app_protection": false,
       "base64_license_key": ""
