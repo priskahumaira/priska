@@ -295,6 +295,15 @@
     },
     {
       "id": 19,
+      "title": "SURAU TV #1 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/SURAU_TV.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "",
+      "streaming_url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8"
+    },
+    {
+      "id": 20,
       "title": "AHSAN TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AHSAN_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -303,7 +312,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch4.m3u8"
     },
     {
-      "id": 20,
+      "id": 21,
       "title": "MUADZ TV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MUADZ_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -312,7 +321,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch5.m3u8"
     },
     {
-      "id": 21,
+      "id": 22,
       "title": "RASYAAD TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/RASYAAD_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -321,7 +330,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch6.m3u8"
     },
     {
-      "id": 22,
+      "id": 23,
       "title": "NAAJIYA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/NAAJIYA_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -330,7 +339,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch7.m3u8"
     },
     {
-      "id": 23,
+      "id": 24,
       "title": "HIJRAH TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/HIJRAH_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -339,7 +348,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "AL IMAN TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_IMAN_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -348,7 +357,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch9.m3u8"
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "NIAGA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/NIAGA_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -357,7 +366,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch10.m3u8"
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "SALAM TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/SALAM_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -366,7 +375,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch12.m3u8"
     },
     {
-      "id": 27,
+      "id": 28,
       "title": "LIVE MADINAH FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -375,7 +384,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch13.m3u8"
     },
     {
-      "id": 28,
+      "id": 29,
       "title": "LIVE MAKKAH FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -384,7 +393,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch14.m3u8"
     },
     {
-      "id": 29,
+      "id": 30,
       "title": "PULDAPII TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/PULDAPII_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -393,7 +402,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch15.m3u8"
     },
     {
-      "id": 30,
+      "id": 31,
       "title": "TV SUNNAH FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/TV_SUNNAH.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -402,7 +411,16 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch16.m3u8"
     },
     {
-      "id": 31,
+      "id": 32,
+      "title": "TV SUNNAH #1 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/TV_SUNNAH.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://streaming.yufid.com/hls/radiokitatv.m3u8"
+    },
+    {
+      "id": 33,
       "title": "BINA MADANI FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/BINA_MADANI_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -411,7 +429,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch20.m3u8"
     },
     {
-      "id": 32,
+      "id": 34,
       "title": "BIN BAZ TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/BINBAZ_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -420,7 +438,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch22.m3u8"
     },
     {
-      "id": 33,
+      "id": 35,
       "title": "MEDS TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MEDS_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -429,7 +447,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch23.m3u8"
     },
     {
-      "id": 34,
+      "id": 36,
       "title": "AL-FURQON TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_FURQON_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -438,7 +456,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch24.m3u8"
     },
     {
-      "id": 35,
+      "id": 37,
       "title": "MGI TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/MGI_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -447,7 +465,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch25.m3u8"
     },
     {
-      "id": 36,
+      "id": 38,
       "title": "IZZAH TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/IZZAH_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -456,7 +474,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch28.m3u8"
     },
     {
-      "id": 37,
+      "id": 39,
       "title": "SJP TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/SJP_TV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -465,7 +483,7 @@
       "streaming_url": "https://h1.intechmedia.net/intech/ch17.m3u8"
     },
     {
-      "id": 38,
+      "id": 40,
       "title": "ADI TV FIX",
       "image": "https://i.postimg.cc/gkVy5Z8p/ADITV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -474,7 +492,7 @@
       "streaming_url": "https://KawaguchiMaeda230810.b-cdn.net/play/daerah/aditv.m3u8"
     },
     {
-      "id": 39,
+      "id": 41,
       "title": "SRB FIX",
       "image": "https://i.postimg.cc/HnGgWbYH/SRBTV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -483,7 +501,7 @@
       "streaming_url": "https://www.youtube.com/watch?v=IDOn6KHxTrc"
     },
     {
-      "id": 40,
+      "id": 42,
       "title": "GAZWAH TV FIX",
       "image": "https://i.postimg.cc/PqRHcB0C/GAZWAHTV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
@@ -492,7 +510,7 @@
       "streaming_url": "https://www.youtube.com/watch?v=tQJnPSDkDb0"
     },
     {
-      "id": 41,
+      "id": 43,
       "title": "DEI KIDS TV FIX",
       "image": "https://i.postimg.cc/LsXRxHQd/DEIKIDSTV.png",
       "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
