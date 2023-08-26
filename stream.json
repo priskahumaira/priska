@@ -473,6 +473,78 @@
       "user_agent": "",
       "streaming_url": "https://www.youtube.com/watch?v=tQJnPSDkDb0"
     },
+    {
+      "id": 39,
+      "title": "DEI KIDS TV FIX",
+      "image": "https://i.imgur.com/MfogyNo.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch80.m3u8"
+    },
+    {
+      "id": 40,
+      "title": "BELUM TAHU TV",
+      "image": "https://i.imgur.com/MfogyNo.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch62.m3u8"
+    },
+    {
+      "id": 41,
+      "title": "BELUM TAHU 1 TV",
+      "image": "https://i.imgur.com/MfogyNo.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch52.m3u8"
+    },
+    {
+      "id": 42,
+      "title": "BELUM TAHU 2 TV",
+      "image": "https://i.imgur.com/MfogyNo.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch46.m3u8"
+    },
+    {
+      "id": 43,
+      "title": "BELUM TAHU 3 TV",
+      "image": "https://i.imgur.com/MfogyNo.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch44.m3u8"
+    },
+    {
+      "id": 44,
+      "title": "BELUM TAHU 4 TV",
+      "image": "https://i.imgur.com/MfogyNo.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch29.m3u8"
+    },
+    {
+      "id": 45,
+      "title": "BELUM TAHU 5 TV",
+      "image": "https://i.imgur.com/MfogyNo.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch26.m3u8"
+    },
+    {
+      "id": 46,
+      "title": "BELUM TAHU 6 TV",
+      "image": "https://i.imgur.com/MfogyNo.png",
+      "description": "Silahkan antum tekan gambar channel di atas dan tunggu sekitar 10-15 detik sampai siaran TV terhubung sempurna. Jika siaran TV di server ini bermasalah, coba server lain.",
+      "category": "Muslim TV",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch51.m3u8"
+    },
 
 
 
